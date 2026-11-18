@@ -1,5 +1,5 @@
 // DFLIX scraper for Nuvio (Legacy tpk / plugin runtime) - DEBUG v2 (shows real errors)
-// Movies: CineplexBD + ShowTime.  Series: ShowTime only.
+// Movies: CineplexBD + ShowTime.  Series: CineplexBD + ShowTime
 
 var CX = "http://cineplexbd.net";
 var ST = "http://10.100.100.10";
