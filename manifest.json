@@ -8,7 +8,7 @@
       "name": "DFLIX",
       "description": "CineplexBD + ShowTime",
       "version": "1.0.2",
-      "filename": "dflix.js",
+      "filename": "dflix(2).js",
       "supportedTypes": ["movie", "tv"],
       "enabled": true
     }
